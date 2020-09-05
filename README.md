@@ -1,4 +1,4 @@
-# Posenet Demo / Resources Website
+# PoseNet Demo / Resources Website
 Hello 👋
 
 I made this simple website that has a live demo of pose estimation! 
